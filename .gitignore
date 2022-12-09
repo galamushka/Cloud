@@ -1,2 +1,5 @@
 MyKeyPair.pem
 MyKeyPairLB.pem
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
